@@ -9,3 +9,4 @@ Neste repositório será armazenado todos os desafios concluídos do Bootcamp Go
 * Fundamentos ReactJs: [OK]
 * Fundamentos React Native: [OK]
 * Database Relations: [OK]
+* GoRestaurant - WEB: [OK]
