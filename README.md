@@ -1,5 +1,5 @@
 # Desafios Bootcamp GoStack
-Neste repositório será armazenado todos os desafios concluídos do Bootcamp GoStack.
+Neste repositório esta armazenado todos os desafios concluídos do Bootcamp GoStack - RocketSeat.
 
 * Conceitos NodeJS: [OK]
 * Conceitos ReactJS: [OK]
@@ -10,3 +10,4 @@ Neste repositório será armazenado todos os desafios concluídos do Bootcamp Go
 * Fundamentos React Native: [OK]
 * Database Relations: [OK]
 * GoRestaurant - WEB: [OK]
+* GoRestaurant - Mobile: [OK]
